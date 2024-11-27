@@ -11,9 +11,10 @@ h1, h2, p {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+  
 }
 
-.flavor {
+.flavor, .dessert {
   text-align: left;
   width: 75%;
 }
